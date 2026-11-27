@@ -1,0 +1,39 @@
+{
+	"manifestVersion": 5,
+	"id": "com.senderowicz.reconformmc",
+	"name": "ReconformMC",
+	"version": "2.4.7",
+	"main": "index.html",
+	"host": {
+		"app": "premierepro",
+		"minVersion": "25.6.0"
+	},
+	"entrypoints": [
+		{
+			"type": "panel",
+			"id": "reconformPanel",
+			"label": {
+				"default": "ReconformMC"
+			},
+			"minimumSize": {
+				"width": 280,
+				"height": 320
+			},
+			"maximumSize": {
+				"width": 2000,
+				"height": 2000
+			},
+			"preferredDockedSize": {
+				"width": 400,
+				"height": 660
+			},
+			"preferredFloatingSize": {
+				"width": 440,
+				"height": 680
+			}
+		}
+	],
+	"requiredPermissions": {
+		"localFileSystem": "fullAccess"
+	}
+}
