@@ -21,7 +21,7 @@ El matcheo es por **archivo**: nombre de origen (sin extensión) y timecode. As�
 
 ## Instalación
 
-Doble clic en `ReconformMC_2.4.7.ccx` (en Releases) con Premiere cerrado. En Premiere: Ventana > Extensiones > ReconformMC.
+Doble clic en `ReconformMC_2.4.7.ccx` (en la carpeta `descargas/`) con Premiere cerrado. En Premiere: Ventana > Extensiones > ReconformMC.
 
 ## Contenido
 
@@ -33,6 +33,6 @@ Doble clic en `ReconformMC_2.4.7.ccx` (en Releases) con Premiere cerrado. En Pre
 | `plugin/manifest.json` | Manifiesto del plugin |
 | `plugin/pako_inflate.min.js` | Librería de terceros (pako, licencia MIT) para leer el `.prproj` comprimido |
 
-## Descargas
+## Descargas (listo para usar)
 
-El plugin listo para instalar (`ReconformMC_2.4.7.ccx`) está en **Releases**.
+El plugin listo para instalar (`ReconformMC_2.4.7.ccx`) está en la carpeta **`descargas/`**.
